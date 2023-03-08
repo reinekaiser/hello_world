@@ -6,7 +6,7 @@ int main (){
     cout << sizeof (int)<<"\t"<<sizeof(long int)<<"\t"<<sizeof(long long int)<<"\n";
     cout <<"long: "<< sizeof (long)<<"\t"<<sizeof(long long)<<"\n";
 
-    //---------------------------------------------------
+    //--------------------------------------------------
     double u[]={7.3, 11.5, 23.6, -6.8, -8.67, 23.599};
     int n;
     cout << sizeof(u)<<endl;
